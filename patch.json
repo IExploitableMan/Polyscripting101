@@ -1,0 +1,19 @@
+{
+    "spamData": {
+        "count": 5,
+        "message": "This is a spam message. Please ignore it."
+    },
+    "unitData": {
+        "warrior": {
+            "unitAbilities": [
+				"dash",
+				"fortify",
+				"land",
+                "blahblah"
+			]
+        }
+    },
+    "unitAbility": {
+        "blahblah": { "idx": -1 }
+    }
+}
