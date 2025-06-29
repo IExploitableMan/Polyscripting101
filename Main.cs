@@ -60,8 +60,8 @@ public static class Main
         if (unitState.HasAbility(EnumCache<UnitAbility.Type>.GetType("blahblah")))
         {
             __result = 1000;
-            return true;
+            return false;
         }
-        return false;
+        return true;
     }
 }
